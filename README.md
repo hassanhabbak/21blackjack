@@ -37,3 +37,9 @@ more players you will need more than one deck).
 The project is written in scala-sdk-2.12.3 with all the requirements in 21blackjack.iml
 
 Unit tests are provided using scalatest_2.12:3.0.1 
+
+Dependency management is handled with Maven
+
+# To execute jar
+
+java -jar 21BlackJack.jar
